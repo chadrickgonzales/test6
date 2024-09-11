@@ -6,5 +6,10 @@ public class SimpleCalculator {
         return a + b;
     }
 
-  
+    // Method for subtraction
+    public static double subtract(double a, double b) {
+        return a - b;
+    }
+
+ 
 }
